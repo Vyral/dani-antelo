@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You must Know Before Starting Your Home Remodel
-date: 2019-11-22 20:49:41
+date: 2019-11-22 20:49:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/remodelyt.jpg
 youtube_code: gSSXRxAZOPs
 ---
 
