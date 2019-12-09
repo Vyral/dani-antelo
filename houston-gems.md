@@ -4,6 +4,8 @@ title: Houston Gems
 permalink: /houston-gems/
 ---
 
+Claire Nadira
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/feqlKZDf4Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Kingdom Story Fellowship
