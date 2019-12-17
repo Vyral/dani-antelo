@@ -8,7 +8,7 @@ excerpt: >-
   I was recently asked how to research good schools when moving to a new area.
   Learn more right here.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/A+Homebuyers+Guide+to+Researching+Schools.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/A+Homebuyers+Guide+to+Researching+Schools+(1).mp4
 pullquote: >-
   If you’re looking for your child to start school in the fall and be able to
   immerse themselves, it’s best to start looking at properties in the
@@ -16,8 +16,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/schoolyt.jpg
-youtube_code: JIFacExE5_Y
+youtube_alternate_image: /uploads/schoolyt-1.jpg
+youtube_code: GFkCjWITl80
 ---
 
 {% include youtube.html %}
