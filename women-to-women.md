@@ -8,3 +8,7 @@ permalink: /women-to-women/
 <img src="/img/women2.jpg" class="post-image"><br><br>
 <img src="/img/women3.jpg" class="post-image"><br><br>
 <img src="/img/women4.jpg" class="post-image"><br>
+
+
+<h5>Join Us on January 23 for Vision Boarding 2020 —
+Led By Maria Henning - Head of Marketing and Operations and Senior Teacher at Yoga Better!.</h5>
