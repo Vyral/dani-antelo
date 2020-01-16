@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Tips for a Successful Home Flipper
+title: My Tips for a Successful Home Flip
 date: 2020-01-14 00:00:00
 tags:
   - Real Estate
@@ -19,11 +19,11 @@ youtube_code: qoQXNIjxJ1w
 
 Flipping homes can be a lucrative industry, but if you think it’ll be as easy as it looks on HGTV, you’re in for a rude awakening. However, there are a few tips that professionals utilize to maximize the outcome of their projects:
 
-<br>Some flippers **hire a good contractor** to come to the property and do the repairs. These contractors are reliable and follow timelines. I’d recommend that you look for contractors before you even start looking for a property to flip. I’d be happy to recommend one to you\!
-
-{% include pullquote.html %}
+Some flippers **hire a good contractor** to come to the property and do the repairs. These contractors are reliable and follow timelines. I’d recommend that you look for contractors before you even start looking for a property to flip. I’d be happy to recommend one to you\!
 
 Flippers also know to **buy in the right neighborhoods.** Just because a property is cheap, that doesn’t necessarily make it a good buy. You want to make sure that the values in the neighborhood are rising, that it’s in a good school district, and that there are other desirable features of the area.
+
+{% include pullquote.html %}
 
 Other flippers do much of the work themselves; **instead of hiring a contractor, they take on the work themselves.** I know your time has a lot of value, but bad renovations can really turn off potential buyers for that house. Good flippers understand that the property is an investment, but they also want a quick turnaround. Instead of focusing on getting the most beautiful finishes, I’d personally recommend that you keep all the renovations generic and appealing to a wider audience.
 
