@@ -4,7 +4,6 @@ title: 2 Ways You Can Save Money as a Homeowner in 2020
 date: 2020-01-17 00:00:00
 tags:
   - Real Estate
-  - Home Owner Tips
 excerpt: >-
   If you're looking to save money as a homeowner in 2020, I want to tell you
   about a couple of ways you can do so.
