@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you're looking to save money as a homeowner in 2020, I want to tell you
   about a couple of ways you can do so.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+2+Ways+You+Can+Save+Money+as+a+Homeowner+in+2019.mp4
 pullquote: >-
   You might be surprised at how much of a reduction you get, and who doesn't
   want that extra cash in their pocket?
@@ -15,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
-youtube_code:
+youtube_code: EW0X4_n0dxs
 ---
 
 {% include youtube.html %}
