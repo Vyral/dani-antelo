@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/flip-yt.jpg
-youtube_code: qoQXNIjxJ1w
+youtube_code: dsuAsG_-xgc
 ---
 
 {% include youtube.html %}
