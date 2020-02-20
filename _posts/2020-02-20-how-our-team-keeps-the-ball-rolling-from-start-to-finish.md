@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/ball-yt-dani-antelo.jpg
 youtube_code: jqSV2fyeVpc
 ---
 
-{% include youtube.html %}Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here’s how our team works.
+{% include youtube.html %}<center>Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here’s how our team works.</center>
 
 When it comes to buying a home, there are some clear rules to this game. That’s why it’s important that you have the right team on your side. **Here’s how our team takes transactions from start to finish.**
 
