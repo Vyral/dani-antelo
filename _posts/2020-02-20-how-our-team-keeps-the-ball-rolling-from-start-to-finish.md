@@ -1,14 +1,14 @@
 ---
 layout: post
 title: How Our Team Keeps the Ball Rolling From Start to Finish
-date: 2020-02-20 16:21:55
+date: 2020-02-20 16:21:00
 tags:
 excerpt: >-
   Of course you need the right Realtor to help you buy a home, but they must
   have the right team around them to make the process smooth. Here’s how our
   team works.
 enclosure:
-pullquote: he home inspector’s job is to protect your investment.
+pullquote: The home inspector’s job is to protect your investment.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -16,11 +16,17 @@ youtube_alternate_image: /uploads/ball-yt-dani-antelo.jpg
 youtube_code: jqSV2fyeVpc
 ---
 
-{% include youtube.html %}<center>Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here’s how our team works.</center>
+{% include youtube.html %}
 
-When it comes to buying a home, there are some clear rules to this game. That’s why it’s important that you have the right team on your side. **Here’s how our team takes transactions from start to finish.**
+<center>Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here&rsquo;s how our team works.</center>
 
-The first two people involved in the process are your Realtor and your lender. Realtors make sure that you’re prepared to make the best purchase possible. Lenders help guide you through the home-buying process while also keeping your budget and priorities in mind.&nbsp;
+&nbsp;
+
+&nbsp;
+
+The game of buying a home has a few clear rules—that’s why, in order to play and win, you need to have the right team on your side.&nbsp;**Here’s how our team takes transactions from start to finish.**
+
+The first two people involved in the process are your Realtor and lender. Realtors make sure that you’re prepared to make the best purchase possible. Lenders help guide you through the home-buying process while also keeping your budget and priorities in mind.&nbsp;
 
 {% include pullquote.html %}
 
@@ -34,7 +40,7 @@ During this time, you’ll prepare for life’s unexpected happenings by securin
 
 Next, it’s back to the title company so they can handle things behind the scenes and make sure all the details are there to run smoothly. Then it’s time for an appraisal. Finally, we make sure that you’re set up with the one-year home warranty that we offer to all our buyers at closing. **Should systems fail to normal wear and tear, this warranty covers all replacements.**
 
-Then it’s time for the final walkthrough, time to get funded, and time to close and move. As you can see, none of us dropped the ball for the entire video above.
+Then it’s time for the final walk through, get funded, and close and move. As you can see, none of us dropped the ball for the entire video above.
 
 **A big thanks to our friends and partners at Supreme Lending, Allegiance Title, Red Star Inspections, Stewart Insurance, First American Home Warranty, and One Source Moving for helping us show how the perfect team works in harmony.**
 
