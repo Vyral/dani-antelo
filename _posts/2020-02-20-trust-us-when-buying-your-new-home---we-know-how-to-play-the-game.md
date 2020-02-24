@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Trust the Houston Broker Team When Buying Your New Home -  We Don't Drop the
-  Ball!
+title: Trust Us When Buying Your New Home - We Know How to Play the Game!
 date: 2020-02-20 16:21:00
 tags:
 excerpt: >-
