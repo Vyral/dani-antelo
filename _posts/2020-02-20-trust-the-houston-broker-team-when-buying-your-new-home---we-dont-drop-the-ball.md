@@ -1,6 +1,8 @@
 ---
 layout: post
-title: How Our Team Keeps the Ball Rolling From Start to Finish
+title: >-
+  Trust the Houston Broker Team When Buying Your New Home -  We Don't Drop the
+  Ball!
 date: 2020-02-20 16:21:00
 tags:
 excerpt: >-
