@@ -4,13 +4,19 @@ title: Houston Gems
 permalink: /houston-gems/
 ---
 
+# Jane Weiner
+
+&nbsp;
+
+# &nbsp;
+
 # Claire Nadira
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/feqlKZDf4Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feqlKZDf4Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 # Kingdom Story Fellowship
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ks3sdcD3AIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ks3sdcD3AIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 &nbsp;
 
