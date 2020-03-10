@@ -11,7 +11,7 @@ enclosure:
 pullquote: The home inspector’s job is to protect your investment.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/ball-yt-dani-antelo.jpg
 youtube_code: jqSV2fyeVpc
 ---
