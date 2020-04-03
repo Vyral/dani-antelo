@@ -6,7 +6,7 @@ permalink: /houston-gems/
 
 # Bridgette Mongeon
 
-# &nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDq8nVgtuJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 # Jane Weiner
 
