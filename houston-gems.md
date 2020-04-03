@@ -4,10 +4,13 @@ title: Houston Gems
 permalink: /houston-gems/
 ---
 
+# Bridgette Mongeon
+
+# &nbsp;
+
 # Jane Weiner
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3PPtMoVbxds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 
 # Claire Nadira
 
