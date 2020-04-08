@@ -22,8 +22,3 @@ permalink: /women-to-women/
 ![](/img/women4.jpg){: width="300" height="300"}
 
 ![](/uploads/daniw2w.JPG){: width="300" height="300"}
-
-
-![](/img/women1.jpg){: .post-image}<br><br>![](/img/women2.jpg){: .post-image}<br><br>![](/img/women3.jpg){: .post-image}<br><br>![](/img/women4.jpg){: .post-image}
-
-![](/uploads/daniw2w.JPG){: width="717" height="354"}
