@@ -1,5 +1,27 @@
 ---
-layout: women
+layout: default
+images:
+  - image_path: /uploads/img-4248.jpg
+    title: 
+  - image_path: /uploads/img-4252.jpg
+    title: 
+  - image_path: /uploads/img-4252.jpg
+    title: 
+  - image_path: /uploads/img-4253.jpg
+    title: 
+  - image_path: /uploads/img-4254.jpg
+    title: 
+  - image_path: /img/women1.jpg
+    title: 
+  - image_path: /img/women2.jpg
+    title: 
+  - image_path: /img/women3.jpg
+    title: 
+  - image_path: /img/women4.jpg
+    title:
+  - image_path: /uploads/daniw2w.JPG
+    title:
+---
 title: Women to Women
 permalink: /women-to-women/
 ---
