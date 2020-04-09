@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Women to Women
 permalink: /women-to-women/
 ---

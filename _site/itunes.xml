@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams - your professional Houston Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Daniela Antelo</managingEditor>
-    <lastBuildDate>2019-12-16 15:08:41 -0600</lastBuildDate>
+    <lastBuildDate>2020-04-09 15:56:40 -0500</lastBuildDate>
     <media:copyright>Daniela Antelo</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,202 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams - your professional Houston Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How We’re Supporting Our Community</title>
+        <link>http://localhost:4000/how-were-supporting-our-community.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Daniela Antelo</author>
+        <pubDate>2020-04-01 16:11:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/How+Were+Supporting+Our+Community.mp4</guid>
+        <description>
+
+We want to give back during these uncertain times. If you’ve been directly affected by this pandemic, we would be happy to list your home for free. 
+
+We hope you’re staying safe (and sane!) during this challenging time. We want to support our community, so if you have lost your job due to the coronavirus or the oil and gas downturn, we will list your home for FREE. We will include a 3D Matterport tour so buyers can virtually walk through your home without stepping foot in it. This is in addition to our regular services which include professional staging and photography. We’re looking forward to being able to host traditional open houses again, but in the meantime, please remember you can “ask us anything.” To hear more about what we’re doing to help, watch the video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/How+Were+Supporting+Our+Community.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/How+Were+Supporting+Our+Community.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We want to give back during these uncertain times. If you’ve been directly affected by this pandemic, we would be happy to list your home for free. Here are some of the other things we’re doing to help our clients right now.</itunes:subtitle>
+        <itunes:author>Daniela Antelo</itunes:author>
+        <itunes:summary>We want to give back during these uncertain times. If you’ve been directly affected by this pandemic, we would be happy to list your home for free. Here are some of the other things we’re doing to help our clients right now.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Trust Us When Buying Your New Home - We Know How to Play the Game!</title>
+        <link>http://localhost:4000/trust-us-when-buying-your-new-home-we-know-how-to-play-the-game.html</link>
+        
+        <author>Daniela Antelo</author>
+        <pubDate>2020-02-20 10:21:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here&rsquo;s how our team works.
+
+ 
+
+ 
+
+The game of buying a home has a few clear rules—that’s why, in order to play and win, you need to have the right team on your side. Here’s how our team takes transactions from start to finish.
+
+The first two people involved in the process are your Realtor and lender. Realtors make sure that you’re prepared to make the best purchase possible. Lenders help guide you through the home-buying process while also keeping your budget and priorities in mind. 
+
+“The home inspector’s job is to protect your investment.”
+
+Once we have the right numbers to work with, we’ll send you a bunch of homes that meet your criteria and then help you make a competitive offer on the right home. 
+
+Once your contract is accepted, the title company will receive that contract, begin the title search, and produce their title commitment, which will be sent to all parties in the transaction.
+
+The home inspector then comes in to protect your investment. They’re here to make sure there is nothing wrong with the home’s structure or its systems.
+
+During this time, you’ll prepare for life’s unexpected happenings by securing home insurance. Flood insurance isn’t always required, but every home in Houston is in a flood zone, so you should strongly consider it.
+
+Next, it’s back to the title company so they can handle things behind the scenes and make sure all the details are there to run smoothly. Then it’s time for an appraisal. Finally, we make sure that you’re set up with the one-year home warranty that we offer to all our buyers at closing. Should systems fail to normal wear and tear, this warranty covers all replacements.
+
+Then it’s time for the final walk through, get funded, and close and move. As you can see, none of us dropped the ball for the entire video above.
+
+A big thanks to our friends and partners at Supreme Lending, Allegiance Title, Red Star Inspections, Stewart Insurance, First American Home Warranty, and One Source Moving for helping us show how the perfect team works in harmony.
+
+If you have any questions for us or any of our partners, feel free to reach out via phone or email. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here’s how our team works.</itunes:subtitle>
+        <itunes:author>Daniela Antelo</itunes:author>
+        <itunes:summary>Of course you need the right Realtor to help you buy a home, but they must have the right team around them to make the process smooth. Here’s how our team works.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2 Ways You Can Save Money as a Homeowner in 2020</title>
+        <link>http://localhost:4000/2-ways-you-can-save-money-as-a-homeowner-in-2020.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Daniela Antelo</author>
+        <pubDate>2020-01-16 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+2+Ways+You+Can+Save+Money+as+a+Homeowner+in+2019.mp4</guid>
+        <description>
+
+If you’re looking to save money as a homeowner in 2020, there are a couple of ways you can do so. 
+
+First, if you currently live in your primary residence—not an investment property—you can file for homestead exemption. The deadline to file is coming up fast, though, and keep in mind that you must have lived in your current home as of January 1 of this year. 
+
+To file for this exemption, you can either go online or download the application and submit it via mail. In the latter case, you’ll need a copy of your driver’s license with your primary residence listed. The filing process is completely free, so don’t fall for any spam mail that offers to file for you for a nominal fee.
+
+“You might be surprised at how much of a reduction you get, and who doesn’t want that extra cash in their pocket?”
+
+The second way you can save money is by protesting your property taxes. Property taxes tend to increase every year, but you can protest yours by bringing a copy of your property tax disclosure to the courthouse in person. Texas is a non-disclosure state, so remember that you’re not required to reveal how much you paid for your property. As with filing for homestead exemption, this process is free. 
+
+If you’d like help protesting your property taxes, I would be happy to do a comparative market analysis of your local area to supplement your position. In any case, don’t be afraid to give it a shot. You might be surprised at how much of a reduction you get, and who doesn’t want that extra cash in their pocket?
+
+If you have any more questions about this topic or you have any other real estate needs I can take care of, don’t hesitate to reach out to me. I’d be happy to help you.
+
+Homestead Exemption Website
+
+Click on the County Link to view the Homestead Exemption Forms. This form can be filled from Jan 1st - April 30th.
+
+
+  Harris County Appraisal District
+  Brazoria County Appraisal District
+  Fort Bend Central Appraisal District
+  Galveston Central Appraisal District
+  Montgomery Central Appraisal District
+  Waller County Appraisal District
+
+
+HCAD Mobile App
+
+Available for IOS/Android Users
+
+You can now electronically file your residential homestead exemption online utilizing the HCAD Mobile App.   To submit the homestead application utilizing the mobile app, you will need 4 items: 1 - The date of occupancy on your residence.   2 - Your TX drivers license  3 - An iPhone or Android phone   4 - The HCAD Info and Exemptions app (found in the App Store or Google Play)
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+2+Ways+You+Can+Save+Money+as+a+Homeowner+in+2019.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+2+Ways+You+Can+Save+Money+as+a+Homeowner+in+2019.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you're looking to save money as a homeowner in 2020, I want to tell you about a couple of ways you can do so.</itunes:subtitle>
+        <itunes:author>Daniela Antelo</itunes:author>
+        <itunes:summary>If you're looking to save money as a homeowner in 2020, I want to tell you about a couple of ways you can do so.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>My Tips for a Successful Home Flip</title>
+        <link>http://localhost:4000/my-tips-for-a-successful-home-flip.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Daniela Antelo</author>
+        <pubDate>2020-01-13 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/My+Tips+for+a+Successful+Home+Flipper.mp4</guid>
+        <description>
+
+Flipping homes can be a lucrative industry, but if you think it’ll be as easy as it looks on HGTV, you’re in for a rude awakening. However, there are a few tips that professionals utilize to maximize the outcome of their projects:
+
+Some flippers hire a good contractor to come to the property and do the repairs. These contractors are reliable and follow timelines. I’d recommend that you look for contractors before you even start looking for a property to flip. I’d be happy to recommend one to you!
+
+Flippers also know to buy in the right neighborhoods. Just because a property is cheap, that doesn’t necessarily make it a good buy. You want to make sure that the values in the neighborhood are rising, that it’s in a good school district, and that there are other desirable features of the area.
+
+“Just because a property is cheap, that doesn’t necessarily make it a good buy.”
+
+Other flippers do much of the work themselves; instead of hiring a contractor, they take on the work themselves. I know your time has a lot of value, but bad renovations can really turn off potential buyers for that house. Good flippers understand that the property is an investment, but they also want a quick turnaround. Instead of focusing on getting the most beautiful finishes, I’d personally recommend that you keep all the renovations generic and appealing to a wider audience.
+
+If you have any more questions about what makes for a good flip or investment property, or if you’re looking for a contractor to help you with your next flip, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/My+Tips+for+a+Successful+Home+Flipper.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/My+Tips+for+a+Successful+Home+Flipper.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What makes for a good home flip? Here’s my advice.</itunes:subtitle>
+        <itunes:author>Daniela Antelo</itunes:author>
+        <itunes:summary>What makes for a good home flip? Here’s my advice.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Houston Broker Team: Who We Are</title>
+        <link>http://localhost:4000/the-houston-broker-team-who-we-are.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Daniela Antelo</author>
+        <pubDate>2020-01-05 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/The+Houston+Broker+Team-+Who+We+Are.mp4</guid>
+        <description>
+
+We’re the Houston Broker Team, and we’d like to tell you a little bit about ourselves: 
+
+We’re fighters who go the extra mile, and we’ve always got your back. Our detailed buyer consultation helps us to determine your real estate goals from the jump, so we can surpass your expectations. When it comes to purchasing a home, we wrote the book—quite literally (“How to Buy a House in Houston, TX” by Daniela Antelo). 
+
+With over 25 years of combined real estate experience, we can point you in the right direction. From selecting the best lender to getting your house keys, we’re there with you every step of the way; no transaction is too big or small for our team.
+
+“When it comes to purchasing a home, we wrote the book—quite literally.”
+
+For our sellers, we have a very strategic 10-point marketing strategy that will get your home sold for the highest price possible with the least amount of time. Our extensive network and use of technology will set you up to win. 
+
+The Houston Broker Team developed the HBT exclusive pre-listing review to get your home sold even before it hits the market; our open houses attract more traffic than any traditional open house. 
+
+With database management, client appreciation, and community building, we make sure nothing falls through the cracks. 
+
+Reach out to the Houston Broker Team today and find out how we can help with your real estate goals and you’ll end up with a trusted real estate advisor for life.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/The+Houston+Broker+Team-+Who+We+Are.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/The+Houston+Broker+Team-+Who+We+Are.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Find out what makes the Houston Broker Team a group like no other.</itunes:subtitle>
+        <itunes:author>Daniela Antelo</itunes:author>
+        <itunes:summary>Find out what makes the Houston Broker Team a group like no other.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What Are the 5 Factors That Influence a Home’s Asking Price?</title>
         <link>http://localhost:4000/what-are-the-5-factors-that-influence-a-homes-asking-price.html</link>
@@ -73,7 +269,7 @@ If you have any more questions about how homes are priced or you’re a seller a
         
         <author>Daniela Antelo</author>
         <pubDate>2019-12-05 18:00:00 -0600</pubDate>
-        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/A+Homebuyers+Guide+to+Researching+Schools.mp4</guid>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/A+Homebuyers+Guide+to+Researching+Schools+(1).mp4</guid>
         <description>
 
 If you have children who are going to school, it will, of course, play a big part in your decision about what house to buy. But how do you know which schools are best for your children?
@@ -96,9 +292,9 @@ A happy child is part of a successful move, so be sure to do your homework in ad
 
 If you have any more questions about how to connect with schools or how to find this information online, reach out to me today. I’d love to hear from you.
 </description>
-        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/A+Homebuyers+Guide+to+Researching+Schools.mp4" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/A+Homebuyers+Guide+to+Researching+Schools+(1).mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/A+Homebuyers+Guide+to+Researching+Schools.mp4" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/A+Homebuyers+Guide+to+Researching+Schools+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I was recently asked how to research good schools when moving to a new area. Learn more right here.</itunes:subtitle>
         <itunes:author>Daniela Antelo</itunes:author>

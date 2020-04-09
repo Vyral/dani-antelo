@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: How To Buy a House in Houston
 permalink: /book/
 ---
