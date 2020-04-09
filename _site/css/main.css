@@ -1548,13 +1548,12 @@ label.tree-toggle {
 @media (max-width: 1100px) {
   .site-title {
     font-size: 5rem; } }
-@media (max-width: 1000px) {
-  .site-logo {
-    max-width: 20rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
-    margin-top: 4rem; }
+    display: none; }
+
+  .cta-title {
+    font-size: 20px; }
 
   .site-title {
     font-size: 5rem; } }
@@ -2640,6 +2639,12 @@ form select {
   max-width: 250px;
   padding: 20px;
   float: left; }
+
+.women-photos {
+  border: 2px solid black;
+  max-width: 45%;
+  display: inline-block;
+  margin: 10px auto; }
 
 .recruiting {
   text-align: center; }
