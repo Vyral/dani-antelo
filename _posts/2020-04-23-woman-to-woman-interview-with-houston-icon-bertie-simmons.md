@@ -13,7 +13,7 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/bertie-yt-dani-antelo.jpg
 youtube_code: bsMfAyQ5q4w
 ---
