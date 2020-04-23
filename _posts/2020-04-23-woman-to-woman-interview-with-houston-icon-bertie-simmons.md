@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Woman-to-Woman Interview With Houston Icon Bertie Simmons
-date: 2020-04-23 22:08:28
+date: 2020-04-23 22:08:00
 tags:
   - Real Estate
 excerpt: >-
   As a sorrowful 10-year-old, Bertie Simmons swore she would fight for social
   justice here in Houston and across the nation. Today she shares a little bit
   of her story.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Woman-to-Woman+Interview+With+Houston+Icon+Bertie+Simmons.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: bsMfAyQ5q4w
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>As a sorrowful 10-year-old, Bertie Simmons swore she would fight for social justice here in Houston and across the nation. Today she shares a little bit of her story.</em></p>
+*As a sorrowful 10-year-old, Bertie Simmons swore she would fight for social justice here in Houston and across the nation. Today she shares a little bit of her story.*
 
 I recently had the pleasure of sitting down with an iconic Houstonian: Dr. Bertie Simmons. After nearly 60 years of working as a trailblazing educator in the Houston Independent School District, Bertie published her memoir, “Whispers of Hope: The Story of My Life,” which incorporates previously written recollections of her impactful childhood friendship with a black girl in the Jim Crow South.
 
