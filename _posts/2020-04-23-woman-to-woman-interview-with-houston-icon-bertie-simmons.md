@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bertie-yt-dani-antelo.jpg
-youtube_code: bsMfAyQ5q4w
+youtube_code: oSg476XTNMY
 ---
 
 {% include youtube.html %}
@@ -28,20 +28,18 @@ From raising funds to take gang-affiliated students to New York shortly after 9/
 
 **Here’s an outline of our discussion with timestamps so that you can skip around to the section(s) that interest you the most:**
 
-1:49 - Bertie’s childhood friendship with a black girl named Dorothy during the Jim Crow Era, witnessing the horrors of the Ku Klux Klan, and her calling to fight for social justice&nbsp;
+1:40 - Bertie’s childhood friendship with a black girl named Dorothy during the Jim Crow Era, witnessing the horrors of the Ku Klux Klan, and her calling to fight for social justice&nbsp;
 
-4:15 - Bertie’s life in Houston: A commitment to fighting inequality in minority neighborhoods, her experience working with Barbara Bush and Clyde Drexler, and leaving a legacy for her granddaughter Ashley&nbsp;
+3:55 - Bertie’s life in Houston: A commitment to fighting inequality in minority neighborhoods, her experience working with Barbara Bush and Clyde Drexler, and leaving a legacy for her granddaughter Ashley&nbsp;
 
-8:20 - Bertie’s secret to staying youthful and energetic: blueberries
+8:10 - Bertie’s secret to staying youthful and energetic: blueberries
 
-9:27 - Laurene Powell Jobs’ $10 million dollar donation&nbsp;
+8:58 - Laurene Powell Jobs’ $10 million dollar donation&nbsp;
 
 13:15 - Bertie addresses gang activity in her school and leads a humbling trip to Ground Zero&nbsp;
 
-20:01 - Why Bertie decided to write a memoir&nbsp;
+19:28 - Why Bertie decided to write a memoir&nbsp;
 
-22:20 - Bertie addresses her removal from principalship at Furr High School and her subsequent lawsuit&nbsp;
+21:27 - Bertie addresses her removal from principalship at Furr High School and her subsequent lawsuit&nbsp;
 
-28:20 - Bertie's message to us
-
-{% include pullquote.html %}
+27:37 - Bertie’s message for us&nbsp;<br>&nbsp;
