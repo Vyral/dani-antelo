@@ -4,10 +4,7 @@ title: Women to Women
 permalink: /women-to-women/
 ---
 
-##### W2W is a monthly networking group created by Daniela Antelo and Sonia Faig. Our aim is to bring the women of Houston together to embrace awareness in the community. By matching local businesses, non-profits and women together, we will share information that is valuable, useful and of service to the community, all while building a stronger connection with women.
-
-
-<!-- ![](/uploads/daniw2w-1.jpg){: width="717" height="354"}
+##### W2W is a monthly networking group created by Daniela Antelo and Sonia Faig. Our aim is to bring the women of Houston together to embrace awareness in the community. By matching local businesses, non-profits and women together, we will share information that is valuable, useful and of service to the community, all while building a stronger connection with women.<!-- ![](/uploads/daniw2w-1.jpg){: width="717" height="354"}
 ![](/uploads/img-4250.jpg){: width="400" height="400"}
 ![](/uploads/img-4257.jpg){: width="400" height="400"}
 ![](/uploads/img-4258.jpg){: width="400" height="400"}
@@ -29,13 +26,4 @@ permalink: /women-to-women/
 [](/uploads/women4-1.jpg){: width="400" height="400"}
 >>>>>>> 625a9f756fb82aabc01d66933b0570304d4c5eea -->
 
-
-<img src="/uploads/daniw2w-1.jpg" class="women-photos">
-<img src="/uploads/img-4250.jpg" class="women-photos">
-<img src="/uploads/img-4257.jpg" class="women-photos">
-<img src="/uploads/img-4258.jpg" class="women-photos">
-<img src="/uploads/img-4259.jpg" class="women-photos">
-<img src="/uploads/women1-1.jpg" class="women-photos">
-<img src="/uploads/women2-1.jpg" class="women-photos">
-<img src="/uploads/women3-1.jpg" class="women-photos">
-<img src="/uploads/women4-1.jpg" class="women-photos">
+![](/uploads/img-4250.jpg){: .women-photos} ![](/uploads/img-4257.jpg){: .women-photos} ![](/uploads/img-4258.jpg){: .women-photos} ![](/uploads/img-4259.jpg){: .women-photos} ![](/uploads/women1-1.jpg){: .women-photos} ![](/uploads/women2-1.jpg){: .women-photos} ![](/uploads/women3-1.jpg){: .women-photos} ![](/uploads/women4-1.jpg){: .women-photos}
