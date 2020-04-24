@@ -20,7 +20,7 @@ youtube_code: bsMfAyQ5q4w
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>As a sorrowful 10-year-old, Bertie Simmons swore she would fight for social justice here in Houston and across the nation. Today she shares a little bit of her story.</em></p>
+*As a sorrowful 10-year-old, Bertie Simmons swore she would fight for social justice here in Houston and across the nation. Today she shares a little bit of her story.*
 
 I recently had the pleasure of sitting down with an iconic Houstonian: Dr. Bertie Simmons. After nearly 60 years of working as a trailblazing educator in the Houston Independent School District, Bertie published her memoir, “Whispers of Hope: The Story of My Life,” which incorporates previously written recollections of her impactful childhood friendship with a black girl in the Jim Crow South.
 
@@ -42,6 +42,6 @@ From raising funds to take gang-affiliated students to New York shortly after 9/
 
 22:20 - Bertie addresses her removal from principalship at Furr High School and her subsequent lawsuit&nbsp;
 
-28:20 - Wrapping things up
+28:20 - Bertie's message to us
 
 {% include pullquote.html %}
