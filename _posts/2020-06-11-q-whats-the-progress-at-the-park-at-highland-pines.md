@@ -17,7 +17,7 @@ youtube_code: 9gE5kjK0N00
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s an update on our latest new home development in Highland Pines.</p>
+<p style="text-align:center"><em>Here’s an update on our latest new home development in Highland Pines.</em></p>
 
 We’re back with the third episode of our series showcasing The Park at Highland Pines, a 32-townhome community in the heart of Acre Homes. Sergio Salazar from Calidad Builders is joining me to talk a bit about what has happened in the past few months.
 
