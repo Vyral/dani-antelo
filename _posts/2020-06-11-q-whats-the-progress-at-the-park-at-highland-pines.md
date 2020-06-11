@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s the Progress at The Park at Highland Pines?'
-date: 2020-06-11 15:00:08
+date: 2020-06-11 15:00:00
 tags:
   - Real Estate
 excerpt: Here’s an update on our latest new home development in Highland Pines.
@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: These are going to be gorgeous custom homes.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/pines-yt-dani-antelo.jpg
 youtube_code: 9gE5kjK0N00
 ---
