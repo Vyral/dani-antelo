@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Who’s Building The Park at Highland Pines?'
-date: 2020-06-16 22:02:39
+date: 2020-06-16 22:02:00
 tags:
   - Real Estate
 excerpt: I’m introducing the head builder of The Park at Highland Pines.
@@ -9,14 +9,14 @@ enclosure:
 pullquote: The Park at Highland Pines is his most ambitious project to date.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/meetyt.jpg
 youtube_code: e-apPI6OFbQ
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>I’m introducing the head builder of The Park at Highland Pines.</em></p>
+*I’m introducing the head builder of The Park at Highland Pines.*
 
 Today I’m back at The Park at Highland Pines, a 32-acre townhome development in a fully gated community with a huge dog park in the back.&nbsp;
 
