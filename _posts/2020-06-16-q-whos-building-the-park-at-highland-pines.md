@@ -16,7 +16,7 @@ youtube_code: e-apPI6OFbQ
 
 {% include youtube.html %}
 
-*I’m introducing the head builder of The Park at Highland Pines.*
+<p style="text-align:center">I’m introducing the head builder of The Park at Highland Pines.</p>
 
 Today I’m back at The Park at Highland Pines, a 32-acre townhome development in a fully gated community with a huge dog park in the back.&nbsp;
 
