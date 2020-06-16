@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Who’s Building The Park at Highland Pines?'
-date:
+date: 2020-06-16 22:02:39
 tags:
   - Real Estate
 excerpt: I’m introducing the head builder of The Park at Highland Pines.
