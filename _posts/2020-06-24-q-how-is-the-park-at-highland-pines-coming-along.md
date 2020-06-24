@@ -19,7 +19,7 @@ youtube_code: T37sXOkRnCM
 
 {% include youtube.html %}
 
-There’s nothing better than seeing a neighborhood come together.
+<p style="text-align:center">There’s nothing better than seeing a neighborhood come together.</p>
 
 I’m joined once again by Sergio Salazar, the general contractor working on The Park at Highland Pines, an exciting new development that we’re proud to represent. Sergio, who has more than 20 years of building experience under his belt, shared the latest progress Calidad Builders has made so far on the development.&nbsp;
 
