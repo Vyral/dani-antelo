@@ -19,11 +19,11 @@ youtube_code: T37sXOkRnCM
 
 {% include youtube.html %}
 
-<p style="text-align:center">There’s nothing better than seeing a neighborhood come together.</p>
+<p style="text-align:center"><em>There’s nothing better than seeing a neighborhood come together.</em></p>
 
 I’m joined once again by Sergio Salazar, the general contractor working on The Park at Highland Pines, an exciting new development that we’re proud to represent. Sergio, who has more than 20 years of building experience under his belt, shared the latest progress Calidad Builders has made so far on the development.&nbsp;
 
-To avoid imposing on the city sewer system, Sergio and his team have updated the development’s storm drainage to direct rainwater into a retention pond in the back, so it can be slowly drained into the city’s system. **Sergio and his team have implemented all of the utilities and are gearing up to start on the streets.&nbsp;**
+To avoid imposing on the city sewer system, Sergio and his team have updated the development’s storm drainage to direct rainwater into a retention pond in the back, so it can be slowly drained into the city’s system. **Sergio and his team have implemented all of the utilities and are gearing up to start on the streets.**&nbsp;
 
 {% include pullquote.html %}
 
@@ -31,6 +31,6 @@ What are some of the challenges he’s faced so far? As is no surprise when deal
 
 We also had a chance to speak with Jonathan Arrendendo, service consultant for CenterPoint Energy (2:18 in the video above). His job is to meet with customers to make sure their needs are being met. He also oversees the installation of transformers for new townhomes like the ones being built here at The Park.&nbsp;
 
-The next step is to pour the streets, and after that, foundations will be built—**it’ll be so awesome to finally see some of these beauties popping up\!&nbsp;**
+The next step is to pour the streets, and after that, foundations will be built—**it’ll be so awesome to finally see some of these beauties popping up!**&nbsp;
 
 We filmed this a few months ago, so if you have questions about this development or anything else relating to real estate, don’t hesitate to give us a call or send an email. We’re always here to help.&nbsp;
