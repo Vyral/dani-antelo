@@ -19,7 +19,7 @@ youtube_code: T37sXOkRnCM
 
 {% include youtube.html %}
 
-<p style="text-align:center">*There’s nothing better than seeing a neighborhood come together.*</p>
+<p style="text-align:center"><em>There’s nothing better than seeing a neighborhood come together.</em></p>
 
 I’m joined once again by Sergio Salazar, the general contractor working on The Park at Highland Pines, an exciting new development that we’re proud to represent. Sergio, who has more than 20 years of building experience under his belt, shared the latest progress Calidad Builders has made so far on the development.&nbsp;
 
@@ -27,7 +27,7 @@ To avoid imposing on the city sewer system, Sergio and his team have updated the
 
 {% include pullquote.html %}
 
-What are some of the challenges he’s faced so far? As is no surprise when dealing with large-scale projects that need city approval and collaboration, paperwork has been a thorn in everyone’s side; luckily, the subcontractor for the utilities has been stellar, and worked through various delays on the part of surveyors and other city inspectors.&nbsp;
+What are some of the challenges he’s faced so far? As is no surprise when dealing with large-scale projects that need city approval and collaboration, paperwork has been a thorn in everyone’s side; luckily, the subcontractor for the utilities has been stellar and worked through various delays on the part of surveyors and other city inspectors.&nbsp;
 
 We also had a chance to speak with Jonathan Arrendendo, service consultant for CenterPoint Energy (2:18 in the video above). His job is to meet with customers to make sure their needs are being met. He also oversees the installation of transformers for new townhomes like the ones being built here at The Park.&nbsp;
 
