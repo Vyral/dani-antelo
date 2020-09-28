@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Are You a Seller Who’s Not Sold on Staging?'
-date: 2020-09-28 09:23:00
+date: 2020-09-28 11:23:00
 tags:
   - Real Estate
 excerpt: Here’s why the power of staging shouldn’t be overlooked.
@@ -17,7 +17,7 @@ youtube_code: v7voFEbYlOY
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why the power of staging shouldn’t be overlooked.</em></p>
+*Here’s why the power of staging shouldn’t be overlooked.*
 
 Here’s a fun little experiment for the video above: Would you, as a homebuyer, prefer to buy the home at 0:13, or the one at 0:16? And why?&nbsp;
 
