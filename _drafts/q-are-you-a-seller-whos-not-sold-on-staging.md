@@ -17,7 +17,7 @@ youtube_code: v7voFEbYlOY
 
 {% include youtube.html %}
 
-Here’s why the power of staging shouldn’t be overlooked.
+<p style="text-align:center;"><em>Here’s why the power of staging shouldn’t be overlooked.</em></p>
 
 Here’s a fun little experiment for the video above: Would you, as a homebuyer, prefer to buy the home at 0:13, or the one at 0:16? And why?&nbsp;
 
