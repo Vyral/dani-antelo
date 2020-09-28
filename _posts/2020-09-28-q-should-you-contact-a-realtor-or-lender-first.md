@@ -17,7 +17,7 @@ youtube_code: Z2QsjwaE0KI
 
 {% include youtube.html %}
 
-Which comes first, the Realtor or the lender?
+<p style="text-align:center;"><em>Which comes first, the Realtor or the lender?</em></p>
 
 Which came first: the chicken or the egg? In a similar vein, when thinking about buying a property, do you contact the lender or a Realtor first?
 
