@@ -6,18 +6,18 @@ tags:
   - Real Estate
 excerpt: Here’s why the power of staging shouldn’t be overlooked.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Q-+Are+You+a+Seller+Whos+Not+Sold+on+Staging_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Q-+Are+You+a+Seller+Whos+Not+Sold+on+Staging_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/staging-yt-dani-antelo.jpg
-youtube_code: v7voFEbYlOY
+youtube_code: Rc5DkDsIOVc
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why the power of staging shouldn’t be overlooked.</em></p>
+*Here’s why the power of staging shouldn’t be overlooked.*
 
 Here’s a fun little experiment for the video above: Would you, as a homebuyer, prefer to buy the home at 0:13, or the one at 0:16? And why?&nbsp;
 
