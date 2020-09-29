@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Should you Contact a Realtor or Lender First?'
+title: 'Q: Should You Contact a Realtor or Lender First?'
 date: 2020-09-28 09:23:00
 tags:
   - Real Estate
@@ -17,7 +17,7 @@ youtube_code: Z2QsjwaE0KI
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Which comes first, the Realtor or the lender?</em></p>
+*Which comes first, the Realtor or the lender?*
 
 Which came first: the chicken or the egg? In a similar vein, when thinking about buying a property, do you contact the lender or a Realtor first?
 
@@ -25,6 +25,6 @@ I talk about this in my book, “How to Buy a House in Houston, TX,” which I g
 
 **My advice is to contact your Realtor first.** We have worked with the good, the bad, and the ugly. We’ve done the research so that you don’t have to\! Instead of spending countless hours online, contact a human instead.
 
-Our personalized buyer consultations will put you right where you need to be in order to achieve your real estate goals.
+Our personalized buyer consultations will put you right where you need to be to achieve your real estate goals.
 
-If you have any questions about to get ready to buy a property, contact me today\! I look forward to hearing from you.
+If you have any questions about how to get ready to buy a property, contact me today\! I look forward to hearing from you.
