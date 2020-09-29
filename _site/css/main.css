@@ -1416,9 +1416,6 @@ html[xmlns] .flexslider .slides {
   .nav-logo {
     display: none; }
 
-  .hero-img {
-    height: 300px; }
-
   .nav-logo-small {
     max-width: 125px;
     margin-top: -20px; } }
@@ -1497,8 +1494,7 @@ label.tree-toggle {
 .w-hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem;
-  height: 500px; }
+  padding-top: 10rem; }
 
 #hero {
   background-position: center;
@@ -1563,7 +1559,8 @@ label.tree-toggle {
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 3.5rem;
+    padding: 0; }
 
   .cta {
     padding: 1rem; } }
