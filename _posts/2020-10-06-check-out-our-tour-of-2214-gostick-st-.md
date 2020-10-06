@@ -5,7 +5,8 @@ date: 2020-10-06 11:45:00
 tags:
   - Real Estate
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Check+Out+Our+Tour+of+2214+Gostick+St.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
