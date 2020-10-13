@@ -17,7 +17,7 @@ youtube_code: MY3yI8OZlLE
 
 {% include youtube.html %}
 
-Here’s the latest news from The Park at Highland Pines.
+<p style="text-align:center;"><em>Here’s the latest news from The Park at Highland Pines.</em></p>
 
 Welcome to my latest update from The Park at Highland Pines\!
 
