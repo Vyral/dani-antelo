@@ -5,7 +5,8 @@ date: 2020-10-13 12:23:00
 tags:
   - Real Estate
 excerpt: Here’s the latest news from The Park at Highland Pines.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Q-+Whats+the+Latest+From+The+Park+at+Highland+Pines_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
