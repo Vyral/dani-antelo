@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 'Q: What’s the Latest From The Park at Highland Pines?'
-date: 2020-10-13 10:23:00
+date: 2020-10-13 12:23:00
 tags:
   - Real Estate
 excerpt: Here’s the latest news from The Park at Highland Pines.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Q-+Whats+the+Latest+From+The+Park+at+Highland+Pines_.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +16,7 @@ youtube_code: MY3yI8OZlLE
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s the latest news from The Park at Highland Pines.</em></p>
+*Here’s the latest news from The Park at Highland Pines.*
 
 Welcome to my latest update from The Park at Highland Pines\!
 
