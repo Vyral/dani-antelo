@@ -17,9 +17,9 @@ youtube_code: MVcF24B5aoA
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Starting in January, we’re providing a year-long class to help you succeed.</em></p>
+*Starting in January, we’re providing a year-long class to help you succeed.*
 
-We have some very thrilling news to share with you: In 2021, my colleague Alex McCauley and I will be teaming up and providing a real estate program called “Money Moves.” **In 2019 and 2020 we sold over $100 million in real estate combined**; we’re two of Houston’s top producers. We’ve received many calls from other real estate agents asking us about our process and how we achieved such success, so we decided to share it with you.&nbsp;
+We have some very thrilling news to share with you: In 2021, my colleague Alex McCauley and I will be teaming up and providing a real estate program called “Money Moves.” **In 2019 and 2020, we sold over $100 million in real estate combined**; we’re two of Houston’s top producers. We’ve received many calls from other real estate agents asking us about our process and how we achieved such success, so we decided to share it with you.&nbsp;
 
 This class will help set you up for success in 2021. We’ll share the tips and tricks to set up the systems you need to succeed in this competitive market. This elite mentorship program is designed by Realtors for Realtors. **You don't have to spend thousands of dollars on coaches or lead generation**; we have you covered.
 
@@ -27,6 +27,6 @@ This is a year-long class that will be extremely hands-on, and we’ll provide c
 
 {% include pullquote.html %}
 
-We’re excited to have you join us\! [**Click here**](https://www.eventbrite.com/e/money-moves-with-dani-alex-tickets-131388461425) **to sign up for this valuable class.** The first five people who sign up will get 50% off. We’re limiting the class to only 100 people, so sign up today.&nbsp;
+We’re excited to have you join us\! [**Click here**](https://www.eventbrite.com/e/money-moves-with-dani-alex-tickets-131388461425) **to sign up for this valuable class.** The first five people who sign up will get 50% off. We’re limiting the class to the first 100 people, so sign up today.&nbsp;
 
 We hope to have you join us in January 2021. Cheers to your success\! If you have any questions about this program, please reach out via phone or email. We would love to hear from you.
