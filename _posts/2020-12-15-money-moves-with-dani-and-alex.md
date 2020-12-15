@@ -17,7 +17,7 @@ youtube_code: MVcF24B5aoA
 
 {% include youtube.html %}
 
-Starting in January, we’re providing a year-long class to help you succeed.
+<p style="text-align:center;"><em>Starting in January, we’re providing a year-long class to help you succeed.</em></p>
 
 We have some very thrilling news to share with you: In 2021, my colleague Alex McCauley and I will be teaming up and providing a real estate program called “Money Moves.” **In 2019 and 2020 we sold over $100 million in real estate combined**; we’re two of Houston’s top producers. We’ve received many calls from other real estate agents asking us about our process and how we achieved such success, so we decided to share it with you.&nbsp;
 
