@@ -4,7 +4,7 @@ title: Our Pie Drop-off Journey
 date: 2020-12-28 09:23:00
 tags:
   - Real Estate
-excerpt:
+excerpt: 'To thank them for their support, we dropped off holiday pies to clients.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2020/Our+Pie+Drop-off+Journey.mp4
 pullquote:
@@ -17,7 +17,7 @@ youtube_code: NI-ejxz9YTg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>To thank them for their support, we dropped off holiday pies to clients.</em></p>
+*To thank them for their support, we dropped off holiday pies to clients.*
 
 2020 has been a wild year, but we’ve still had a great one thanks to you and your support. **We’re so grateful for your business, referrals, and trust in us.** As a token of our appreciation, we delivered pies to many of our clients. We can’t wait to work with you in 2021\!&nbsp;
 
