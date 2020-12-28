@@ -17,7 +17,7 @@ youtube_code: NI-ejxz9YTg
 
 {% include youtube.html %}
 
-To thank them for their support, we dropped off holiday pies to clients.
+<p style="text-align:center;"><em>To thank them for their support, we dropped off holiday pies to clients.</em></p>
 
 2020 has been a wild year, but we’ve still had a great one thanks to you and your support. **We’re so grateful for your business, referrals, and trust in us.** As a token of our appreciation, we delivered pies to many of our clients. We can’t wait to work with you in 2021\!&nbsp;
 
