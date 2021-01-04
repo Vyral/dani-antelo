@@ -17,7 +17,7 @@ youtube_code: mrsVGBzEL7Y
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Phase one of construction is complete, so here’s a look at our progress.</em></p>
+<p style="text-align:center;"><em>Phase one of construction is complete. Here’s a look at our progress.</em></p>
 
 We’re back once again for another visit to The Park at Highland Pines. Phase one is now completed and I’m so excited to show you the progress on this beautiful 32-townhome community, specifically the luxurious Highland floor plan.
 
