@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Save Money as a Homeowner in 2021
+title: 2 Ways to Save as a Homeowner in 2021
 date: 2021-01-18 00:00:00
 tags:
   - Real Estate
