@@ -17,7 +17,7 @@ youtube_code: EW0X4_n0dxs
 
 {% include youtube.html %}
 
-<center><em>Here are a few different ways homeowners can save some money this year.</em></center>
+<center><em>Here are a few different ways homeowners can save some money this year.</em></center>&nbsp;
 
 If you’re looking to save money as a homeowner in 2021, there are a couple of ways you can do so.&nbsp;
 
