@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: I’d be happy to help you protest your property taxes.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2021-01-18.jpg
 youtube_code: EW0X4_n0dxs
 ---
