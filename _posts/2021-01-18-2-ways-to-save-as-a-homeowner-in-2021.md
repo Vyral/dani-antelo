@@ -19,6 +19,8 @@ youtube_code: EW0X4_n0dxs
 
 <center><em>Here are a few different ways homeowners can save some money this year.</em></center>
 
+<center>&nbsp;</center>
+
 If you’re looking to save money as a homeowner in 2021, there are a couple of ways you can do so.&nbsp;
 
 First, if you currently live in your primary residence—not an investment property—you can file for your homestead exemption. The deadline to file is coming up fast, though, and keep in mind that you must have lived in your current home as of January 1, 2021.&nbsp;
