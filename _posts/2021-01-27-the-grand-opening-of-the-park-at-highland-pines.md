@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Have You Seen the Highland Floor Plan?'
+title: The Grand Opening of The Park at Highland Pines
 date: 2021-01-27 09:23:00
 tags:
   - Real Estate
