@@ -23,6 +23,8 @@ It’s finally time for the grand opening of The Park at Highland Pines\! Phase 
 
 **Join us this Saturday, January 30, from 12 p.m. to 4 p.m. for a grand opening celebration\!** You’ll be able to take a look at the completed phase one of the project and get some delicious free tacos while you’re at it.&nbsp;
 
+**[Click here to register\!](https://www.eventbrite.com/e/grand-opening-the-park-at-highland-pines-tickets-138352366653?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-source=strongmail&amp;utm-term=listing){: target="_blank" rel="noopener"}**
+
 I’m so excited to show you the progress on this beautiful 32-townhome community, specifically the luxurious Highland floor plan.&nbsp;
 
 **The Highland floor plan features over 1,800 square feet, three bedrooms, and 2.5 bathrooms.** The elegant, open kitchen features a waterfall island with a textured cascade finish and quartz countertops. The induction range oven is an upgrade and comes with pots and pans for your home-cooked meals and plenty of cabinet and storage space.
