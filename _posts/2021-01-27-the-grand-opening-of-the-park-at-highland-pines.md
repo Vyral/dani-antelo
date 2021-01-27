@@ -17,7 +17,7 @@ youtube_code: mrsVGBzEL7Y
 
 {% include youtube.html %}
 
-The Grand Opening is this Saturday and we hope to see you there.
+<center><em>The Grand Opening is this Saturday and we hope to see you there.</em></center>
 
 It’s finally time for the grand opening of The Park at Highland Pines\! Phase one is now completed, and we’re already pre-selling phase two.&nbsp;
 
